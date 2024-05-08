@@ -1,0 +1,1 @@
+# ecomerce-blogger-theme-defecto
