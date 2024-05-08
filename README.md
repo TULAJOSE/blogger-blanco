@@ -9,4 +9,4 @@
 ## Ingresar en el body
   
  
-   &lt;script src=&quot;script.js&quot;&gt;&lt;/script&gt;
+   <script src="script.js"></script>
