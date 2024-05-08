@@ -9,4 +9,4 @@
 ## Ingresar en el body
   
  
-   <script src="script.js"></script>
+   <script src="[script.js](https://cdn.jsdelivr.net/gh/owinile/ecomerce-blogger-theme-defecto@main/script.js)"></script>
