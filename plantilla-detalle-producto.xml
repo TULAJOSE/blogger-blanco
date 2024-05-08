@@ -1,0 +1,111 @@
+<hr/>
+<div class = "card-wrapper">
+      <div class = "card">
+        <!-- card left -->
+        <div class = "product-imgs">
+          <div class = "img-display">
+            <div class = "img-showcase">
+              <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvW96VcHTOGKM7JdtqNKp9PQOFsA2uri4jVcWTqfkDVbTjLmZIA6nEiNLnTp2MTD9F3MWYRBe1Yg5hL98vq1s9Q0Ji6udCPeXR3BXHV_QZ_-PqQIuhTS7vAXyDG78u6dhTXzOATodi6KCexAnTbTbw9dGLpEM3hhdlJHKNzglv3L5izu9UH2fzPa8awtE/s1600/shoe_1.jpg" alt = "shoe image">
+              <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizK8vei9qW1WD-p_sME4Bb-kMHj-gdpYFsJZjzAXH5yS93knJszXO_LdPujxEHhHdbzmXpqq182N4Og1m1GJFAcn9EXQMBSouZEcsTrWQ-oyVTkLuUu7f3mA8o9jpypQZBdLxG-FZquKuV8fEAAgbk0N2g7h8m6dmMs8VqRyCsTmtI7nuDkBF4_hJXQ7w/s1600/shoe_2.jpg" alt = "shoe image">
+              <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqHgQ479uFdjZ2sN9B4iGTZDc3higFiMYGVUwV6mhMKup1yem-h829QY9ehppsfrB_anpBuzGtYt1WgUN-fUe4K4EL4YR9-cjbrsZIMrvf3PCvGSh_-Y6OMApPkGf8slvPTtoAMwj1HEBWaJA02rNQ-QDXfzGIicG5N51twR9urOa2Ehpr1ZJeXI4RAY/s1600/shoe_3.jpg" alt = "shoe image">
+              <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXYi6EP-oXa5xeoeDlA9V9OdFW1Vz6yUzY9r89MmABzOtQTzBtcfi-nb3nl1c1z3R9qBQz06QrOXpXGjvxEXo2p_CRXkxQKrCstBP-Be51ly-YTAtamn5VDyj1Zba8GMOpHzodL_rRrCHiL8n-zpIhdCzie_Njp0CLRpD55Z4_uTqTe_ga3FWze5tL47c/s1600/shoe_4.jpg" alt = "shoe image">
+            </div>
+          </div>
+          <div class = "img-select">
+            <div class = "img-item">
+              <a href = "#" data-id = "1">
+                <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvW96VcHTOGKM7JdtqNKp9PQOFsA2uri4jVcWTqfkDVbTjLmZIA6nEiNLnTp2MTD9F3MWYRBe1Yg5hL98vq1s9Q0Ji6udCPeXR3BXHV_QZ_-PqQIuhTS7vAXyDG78u6dhTXzOATodi6KCexAnTbTbw9dGLpEM3hhdlJHKNzglv3L5izu9UH2fzPa8awtE/s1600/shoe_1.jpg" alt = "shoe image">
+              </a>
+            </div>
+            <div class = "img-item">
+              <a href = "#" data-id = "2">
+                <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizK8vei9qW1WD-p_sME4Bb-kMHj-gdpYFsJZjzAXH5yS93knJszXO_LdPujxEHhHdbzmXpqq182N4Og1m1GJFAcn9EXQMBSouZEcsTrWQ-oyVTkLuUu7f3mA8o9jpypQZBdLxG-FZquKuV8fEAAgbk0N2g7h8m6dmMs8VqRyCsTmtI7nuDkBF4_hJXQ7w/s1600/shoe_2.jpg" alt = "shoe image">
+              </a>
+            </div>
+            <div class = "img-item">
+              <a href = "#" data-id = "3">
+                <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqHgQ479uFdjZ2sN9B4iGTZDc3higFiMYGVUwV6mhMKup1yem-h829QY9ehppsfrB_anpBuzGtYt1WgUN-fUe4K4EL4YR9-cjbrsZIMrvf3PCvGSh_-Y6OMApPkGf8slvPTtoAMwj1HEBWaJA02rNQ-QDXfzGIicG5N51twR9urOa2Ehpr1ZJeXI4RAY/s1600/shoe_3.jpg" alt = "shoe image">
+              </a>
+            </div>
+            <div class = "img-item">
+              <a href = "#" data-id = "4">
+                <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXYi6EP-oXa5xeoeDlA9V9OdFW1Vz6yUzY9r89MmABzOtQTzBtcfi-nb3nl1c1z3R9qBQz06QrOXpXGjvxEXo2p_CRXkxQKrCstBP-Be51ly-YTAtamn5VDyj1Zba8GMOpHzodL_rRrCHiL8n-zpIhdCzie_Njp0CLRpD55Z4_uTqTe_ga3FWze5tL47c/s1600/shoe_4.jpg" alt = "shoe image">
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- card right -->
+        <div class = "product-content">
+          
+         
+                    <div class = "product-detail">
+            <h2>Descripción Del Producto</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo eveniet veniam tempora fuga tenetur placeat sapiente architecto illum soluta consequuntur, aspernatur quidem at sequi ipsa!</p>
+            <ul>
+              <li>Color: <span>Black</span></li>
+              <li>Disponible: <span>in stock</span></li>
+              <li>Categoría: <span>Shoes</span></li>
+              <li>Zona de envío: <span>All over the world</span></li>
+              <li>Gastos de envío: <span>Free</span></li>
+            </ul>
+          </div>
+          
+          <div class = "product-rating">
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star-half-alt"></i>
+            <span>4.7(21)</span>
+          </div>
+
+          <div class = "product-price">
+            <p class = "last-price">Precio antiguo: <span>$257.00</span></p>
+            <p class = "new-price">Nuevo precio: <span>$249.00 (5%)</span></p>
+          </div>
+
+          <div class = "purchase-info">
+            
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" id="buyNowButton">
+            <input type="hidden" name="cmd" value="_xclick" />
+            <input type="hidden" name="business" value="example@minicartjs.com" />
+            <input type="hidden" name="item_name" value="Rainbow" />
+            <input type="hidden" name="item_number" value="ROYGBIV" />
+            <input type="hidden" name="amount" value="2.00" />
+            <input type="hidden" name="quantity" value="1" />
+            <input type="hidden" name="currency_code" value="USD" />
+            <input type="hidden" name="return" value="http://www.minicartjs.com/?success" />    
+            <input type="hidden" name="cancel_return" value="http://www.minicartjs.com/?cancel" />
+           
+          <button type="submit" name="submit" class = "btn">
+              Comprar Ahora <i class = "fas fa-shopping-cart"></i>
+            </button>
+    </form>
+            
+            
+          </div>
+
+          <div class = "social-links">
+            <p>Sígueme en: </p>
+            <a href = "#">
+              <i class = "fab fa-facebook-f"></i>
+            </a>
+            <a href = "#">
+              <i class = "fab fa-twitter"></i>
+            </a>
+            <a href = "#">
+              <i class = "fab fa-instagram"></i>
+            </a>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+
+<hr/><br/>
+<h2>Información adicional</h2>
+<br/>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<br/>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><br/>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
